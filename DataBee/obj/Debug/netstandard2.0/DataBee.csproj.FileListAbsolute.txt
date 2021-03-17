@@ -1,0 +1,8 @@
+C:\Users\antho\source\repos\DataBee\DataBee\bin\Debug\netstandard2.0\DataBee.deps.json
+C:\Users\antho\source\repos\DataBee\DataBee\bin\Debug\netstandard2.0\DataBee.dll
+C:\Users\antho\source\repos\DataBee\DataBee\bin\Debug\netstandard2.0\DataBee.pdb
+C:\Users\antho\source\repos\DataBee\DataBee\obj\Debug\netstandard2.0\DataBee.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\DataBee\DataBee\obj\Debug\netstandard2.0\DataBee.AssemblyInfo.cs
+C:\Users\antho\source\repos\DataBee\DataBee\obj\Debug\netstandard2.0\DataBee.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\DataBee\DataBee\obj\Debug\netstandard2.0\DataBee.dll
+C:\Users\antho\source\repos\DataBee\DataBee\obj\Debug\netstandard2.0\DataBee.pdb
